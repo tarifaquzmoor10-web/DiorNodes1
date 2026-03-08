@@ -80,7 +80,9 @@ export function Navbar() {
           {/* Action Button & Mobile Toggle */}
           <div className="flex items-center gap-4">
             <a 
-              href="#"
+              href="https://panel.diornodes.cloud"
+              target="_blank"
+              rel="noopener noreferrer"
               className="hidden sm:flex items-center justify-center px-6 py-2.5 text-sm font-bold text-white rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 hover:border-white/20 hover:scale-105 transition-all duration-300 backdrop-blur-md"
             >
               Client Panel
@@ -118,7 +120,9 @@ export function Navbar() {
               </a>
             ))}
             <a 
-              href="#"
+              href="https://panel.diornodes.cloud"
+              target="_blank"
+              rel="noopener noreferrer"
               className="mt-4 flex items-center justify-center px-6 py-4 text-lg font-bold text-white rounded-xl bg-gradient-to-r from-[#00F0FF] to-[#8A2BE2] shadow-[0_0_30px_rgba(138,43,226,0.3)]"
             >
               Client Panel

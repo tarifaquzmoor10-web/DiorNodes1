@@ -168,9 +168,14 @@ export default function Home() {
                   </li>
                 ))}
               </ul>
-              <button className="w-full py-3 rounded-xl font-bold text-white bg-white/5 border border-white/10 hover:bg-white/10 transition-colors">
+              <a 
+                href="https://billing.diornodes.cloud"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full py-3 rounded-xl font-bold text-white bg-white/5 border border-white/10 hover:bg-white/10 transition-colors flex items-center justify-center"
+              >
                 Select Basic
-              </button>
+              </a>
             </motion.div>
 
             {/* Pro Plan (Highlighted) */}
@@ -212,9 +217,14 @@ export default function Home() {
                     </li>
                   ))}
                 </ul>
-                <button className="w-full py-4 rounded-xl font-bold text-white bg-gradient-to-r from-[#00F0FF] to-[#8A2BE2] shadow-lg hover:shadow-xl hover:scale-[1.02] transition-all">
+                <a 
+                  href="https://billing.diornodes.cloud"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full py-4 rounded-xl font-bold text-white bg-gradient-to-r from-[#00F0FF] to-[#8A2BE2] shadow-lg hover:shadow-xl hover:scale-[1.02] transition-all flex items-center justify-center"
+                >
                   Select Pro
-                </button>
+                </a>
               </div>
             </motion.div>
 
@@ -248,9 +258,14 @@ export default function Home() {
                   </li>
                 ))}
               </ul>
-              <button className="w-full py-3 rounded-xl font-bold text-white bg-white/5 border border-white/10 hover:bg-white/10 transition-colors">
+              <a 
+                href="https://billing.diornodes.cloud"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full py-3 rounded-xl font-bold text-white bg-white/5 border border-white/10 hover:bg-white/10 transition-colors flex items-center justify-center"
+              >
                 Select Ultra
-              </button>
+              </a>
             </motion.div>
           </div>
         </section>
