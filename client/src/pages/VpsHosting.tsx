@@ -219,7 +219,7 @@ export default function VpsHosting() {
               rel="noopener noreferrer"
               className="inline-block px-10 py-4 rounded-xl font-bold text-white bg-gradient-to-r from-[#8A2BE2] to-[#B026FF] shadow-[0_0_30px_rgba(138,43,226,0.3)] hover:shadow-[0_0_50px_rgba(138,43,226,0.5)] hover:scale-105 transition-all duration-300"
             >
-              Deploy Now
+              Buy Now
             </a>
           </motion.div>
         </section>

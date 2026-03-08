@@ -211,7 +211,7 @@ export default function DiscordBotHosting() {
               rel="noopener noreferrer"
               className="inline-block px-10 py-4 rounded-xl font-bold text-white bg-gradient-to-r from-[#5865F2] to-[#4752C4] shadow-[0_0_30px_rgba(88,101,242,0.3)] hover:shadow-[0_0_50px_rgba(88,101,242,0.5)] hover:scale-105 transition-all duration-300"
             >
-              Start Today
+              Buy Now
             </a>
           </motion.div>
         </section>

@@ -236,7 +236,7 @@ export default function MinecraftHosting() {
               rel="noopener noreferrer"
               className="inline-block px-10 py-4 rounded-xl font-bold text-white bg-gradient-to-r from-[#00F0FF] to-[#8A2BE2] shadow-[0_0_30px_rgba(138,43,226,0.3)] hover:shadow-[0_0_50px_rgba(138,43,226,0.5)] hover:scale-105 transition-all duration-300"
             >
-              Start Your Free Trial
+              Buy Now
             </a>
           </motion.div>
         </section>
