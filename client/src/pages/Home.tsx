@@ -107,7 +107,7 @@ export default function Home() {
                 High performance Minecraft servers powered by NVMe storage, instant setup and advanced DDoS protection.
               </p>
               <a 
-                href="#plans"
+                href="/minecraft"
                 className="w-full py-4 rounded-xl font-bold text-white bg-white/5 border border-white/10 hover:bg-gradient-to-r hover:from-[#00F0FF]/20 hover:to-[#0080FF]/20 hover:border-[#00F0FF]/30 transition-all duration-300 flex items-center justify-center gap-2 group/btn"
               >
                 View Minecraft Plans <ChevronRight className="w-5 h-5 group-hover/btn:translate-x-1 transition-transform" />
@@ -135,7 +135,7 @@ export default function Home() {
                 Run your Discord bots 24/7 with powerful hardware, low latency and reliable uptime.
               </p>
               <a 
-                href="#plans"
+                href="/discord-bot"
                 className="w-full py-4 rounded-xl font-bold text-white bg-white/5 border border-white/10 hover:bg-gradient-to-r hover:from-[#5865F2]/20 hover:to-[#4752C4]/20 hover:border-[#5865F2]/30 transition-all duration-300 flex items-center justify-center gap-2 group/btn"
               >
                 View Bot Hosting <ChevronRight className="w-5 h-5 group-hover/btn:translate-x-1 transition-transform" />
@@ -161,7 +161,7 @@ export default function Home() {
                 Deploy powerful virtual private servers with full root access and enterprise grade infrastructure.
               </p>
               <a 
-                href="#plans"
+                href="/vps"
                 className="w-full py-4 rounded-xl font-bold text-white bg-white/5 border border-white/10 hover:bg-gradient-to-r hover:from-[#8A2BE2]/20 hover:to-[#B026FF]/20 hover:border-[#8A2BE2]/30 transition-all duration-300 flex items-center justify-center gap-2 group/btn"
               >
                 View VPS Plans <ChevronRight className="w-5 h-5 group-hover/btn:translate-x-1 transition-transform" />
