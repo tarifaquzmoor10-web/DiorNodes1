@@ -1,0 +1,76 @@
+I have an existing hosting landing website for "Dior Nodes".  
+The website is built with HTML, CSS and JavaScript and already includes sections like Hero, Features, Pricing, Discord and Footer.
+
+I will upload the project as a ZIP file.
+
+Your task is to MODIFY the existing website and add a new "Services / Hosting Categories" section without breaking the current design.
+
+Requirements:
+
+1. Create a new section called:
+"Hosting Services"
+
+2. This section should appear BETWEEN the Hero Section and Features Section.
+
+3. The section must contain 3 modern glassmorphism cards representing different services.
+
+Services to add:
+
+1️⃣ Premium Minecraft Server Hosting
+Description:
+"High performance Minecraft servers powered by NVMe storage, instant setup and advanced DDoS protection."
+
+Button:
+"View Minecraft Plans"
+
+Icon suggestion:
+Minecraft / server icon
+
+2️⃣ Discord Bot Hosting
+Description:
+"Run your Discord bots 24/7 with powerful hardware, low latency and reliable uptime."
+
+Button:
+"View Bot Hosting"
+
+Icon suggestion:
+Discord / bot icon
+
+3️⃣ 24/7 VPS Hosting
+Description:
+"Deploy powerful virtual private servers with full root access and enterprise grade infrastructure."
+
+Button:
+"View VPS Plans"
+
+Icon suggestion:
+Cloud / VPS icon
+
+
+Design rules:
+
+• Keep the SAME dark futuristic theme  
+• Use neon blue and purple gradients  
+• Use glassmorphism cards like the rest of the site  
+• Add smooth hover animations  
+• Cards should glow on hover  
+• Fully responsive for mobile and desktop  
+• Add subtle particle or glow background behind the section
+
+Card layout:
+
+Desktop → 3 cards in one row  
+Tablet → 2 cards  
+Mobile → 1 card
+
+Buttons should use the same gradient style as existing buttons.
+
+Important:
+
+Do NOT remove or break any existing sections.
+Only ADD this new section cleanly.
+
+Also update the navbar by adding a new link:
+"Services"
+
+When clicked, it should scroll to the new Hosting Services section.
